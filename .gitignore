@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/binary-tree/FileContentIndex
+/.vs/binary-tree/v17
+/.vs
